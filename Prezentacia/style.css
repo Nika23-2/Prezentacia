@@ -148,15 +148,6 @@
     min-height: 200px;
     flex-wrap: wrap;
 }
-.flex-container1aib{
-    display: flex;
-    background-color:blue;
-    margin-top: 50px;
-    align-items: baseline;
-    min-height: 200px;
-    flex-wrap: wrap;
-
-}
 .flex-container1aie{
     display: flex;
     background-color:blue;
